@@ -13,5 +13,5 @@
 * It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 * It is low level (raw) form of data and is also human readable.
 * It helps developers in faster coding, in-turn reduces development cost.
-#### JsonPowerDB provide an efficient way to manage the database and its easy to use the jpdb-commons.js in the project provides a serveless development . Using commands defined in jpdb-commons.js the database connectivity is done super easily and the javascript code gets simple.
+#### ***JsonPowerDB*** provide an efficient way to manage the database and its easy to use the ***jpdb-commons.js*** in the project provides a serveless development . Using commands defined in ***jpdb-commons.js*** the database connectivity is done super easily and the javascript code gets simple.
 ![image of records stored in JsonPowerDB](/../master/images/4.png)
